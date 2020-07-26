@@ -1,6 +1,8 @@
-<template>
+<!--父页面-->
+<template xmlns:background="http://www.w3.org/1999/xhtml">
   <div id="app">
-    <img src="./assets/logo.png">
+    <!--丑丑的绿色大V-->
+    <!--<img src="./assets/logo.png">-->
     <router-view/>
   </div>
 </template>
@@ -18,6 +20,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+
 }
 </style>

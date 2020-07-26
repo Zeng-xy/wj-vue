@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Hello World!
+    Victory!
   </div>
 </template>
 
